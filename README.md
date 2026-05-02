@@ -50,17 +50,13 @@ Designed as a **portfolio-ready low-code application**, demonstrating API integr
 ##  Project Structure
 
 weather-apex-app/
-│
-├── app/
-│   └── f104.sql
-│
-├── db/
-│   └── weather_api_pkg.sql
-│
-├── images/
-│   └── demo.png
-│
-└── README.md
+-app
+-f104.sql
+-db
+-weather_api_pkg.sql
+-images
+-demo.png
+-README.md
 
 ---
 
