@@ -26,6 +26,12 @@ Designed as a **portfolio-ready low-code application**, demonstrating API integr
 
 ---
 
+## Live Demo
+
+[Launch WeatherUI](https://yourusername.github.io/weather-apex-app/)
+
+---
+
 ## Key Features
 
 -  Search weather by city name  
