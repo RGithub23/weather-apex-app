@@ -8,7 +8,7 @@ Oracle APEX app which can generate weather data
 
 ## Product Preview
 
-https://rgithub23.github.io/weather-apex-app/
+![WeatherUI Demo](images/demo.png)
 
 ---
 
@@ -28,7 +28,7 @@ Designed as a **portfolio-ready low-code application**, demonstrating API integr
 
 ## Live Demo
 
-[Launch WeatherUI](https://yourusername.github.io/weather-apex-app/)
+https://rgithub23.github.io/weather-apex-app/
 
 ---
 
