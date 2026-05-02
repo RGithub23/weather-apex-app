@@ -11,7 +11,7 @@ create or replace PACKAGE BODY weather_api_pkg AS
     l_url      VARCHAR2(4000);
   BEGIN
     l_url := 'https://api.openweathermap.org/data/2.5/weather?q=' || p_city ||
-             '&appid=Insert API_Key here';
+             '&appid=Insert_API_Key_here';
 
     l_response := apex_web_service.make_rest_request(
       p_url         => l_url,
