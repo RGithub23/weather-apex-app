@@ -1,4 +1,4 @@
-# weather-apex-app
+# Weather-apex-app
 Oracle APEX app which can generate weather data
 # WeatherUI
 
