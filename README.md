@@ -67,4 +67,24 @@ Run the PL/SQL script in Oracle APEX:
 App Builder → Import -> app/f104.sql
 SQL workshop -> SQL Scripts -> Upload weather_api_pkg.plb
 SQL workshop -> SQL Scripts -> weather_api_pkg.sql
+Open the PL/SQL package body and replace YOUR_API_KEY_HERE with Free API key from https://home.openweathermap.org/api_keys
 App will the full install.
+
+##   Architecture Overview
+
+This project demonstrates:
+
+-Server-side API handling using PL/SQL
+-Oracle APEX page-based UI development
+-Separation of frontend and backend logic
+-Secure handling of external credentials
+-Lightweight REST-driven architecture
+
+##   Author
+
+Built as a portfolio project demonstrating Oracle APEX development.
+
+##   License
+
+This project is licensed under the MIT License for educational and portfolio use.
+
