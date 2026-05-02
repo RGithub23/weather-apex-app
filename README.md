@@ -67,7 +67,7 @@ weather-apex-app/
 - App Builder → Import -> app/f104.sql
 - SQL workshop -> SQL Scripts -> Upload weather_api_pkg.plb
 - SQL workshop -> SQL Scripts -> weather_api_pkg.sql
-- Open the PL/SQL package body and replace YOUR_API_KEY_HERE with Free API key from https://home.openweathermap.org/api_keys
+- Open the PL/SQL package body and replace YOUR_API_KEY_HERE with free API key from https://home.openweathermap.org/api_keys
 - App will the full install.
 
 ##   Architecture Overview
@@ -86,5 +86,5 @@ This project demonstrates:
 
 ##   License
 
-This project is licensed under the MIT License for educational and portfolio use.
+- This project is licensed under the MIT License for educational and portfolio use.
 
