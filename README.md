@@ -26,12 +26,6 @@ Designed as a **portfolio-ready low-code application**, demonstrating API integr
 
 ---
 
---## Live Demo
-
---https://rgithub23.github.io/weather-apex-app/
-
----
-
 ## Key Features
 
 -  Search weather by city name  
