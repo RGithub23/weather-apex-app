@@ -8,7 +8,7 @@ Oracle APEX app which can generate weather data
 
 ## Product Preview
 
-![WeatherUI Demo](images/demo.png)
+![WeatherUI Demo](images/Demo.PNG)
 
 ---
 
