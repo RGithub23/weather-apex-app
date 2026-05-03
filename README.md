@@ -14,6 +14,8 @@ Oracle APEX app which can generate weather data
 
 ![WeatherUI Demo](images/demo.gif)
 
+![WeatherUI Demo](images/demo2.gif)
+
 ---
 
 ## What is WeatherUI?
