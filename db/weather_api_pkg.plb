@@ -18,7 +18,7 @@ create or replace PACKAGE BODY weather_api_pkg AS
       p_http_method => 'GET'
     );
 
-    -- ✅ Log the full JSON response
+    -- Log the full JSON response
     apex_debug.message('Full JSON: ' || l_response);
     apex_debug.message('Parsed Weather: ' || p_weather);
 
